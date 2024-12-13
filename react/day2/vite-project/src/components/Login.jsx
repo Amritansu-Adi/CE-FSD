@@ -12,8 +12,7 @@ const Login = ({regDataLogin}) => {
     }
     else{
       alert("Login Failed")
-    }
-    }
+    }}
   return (
     <div>
       <form>
